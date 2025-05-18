@@ -12,4 +12,4 @@ and MediaPipe Packages. The trained CNN gave an accuracy of
 97.67 % and Mediapipe’s hand tracking module has a precision
 of 95.7%
 
-This Research Work is published in IEEE
+This Research Work is published in IEEE: https://ieeexplore.ieee.org/document/9984411
